@@ -25,7 +25,7 @@
   * .vim , .vimrc
   * source .bashrc in .bash_profile
   * .gitconfig
-  * [.irbrc, .pryrc](https://gist.github.com/fabiokr/4555771) #TODO
+  * [.irbrc, .pryrc](https://gist.github.com/fabiokr/4555771)
 
 #### SSH keys
   * gem install gas
