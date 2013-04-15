@@ -12,6 +12,9 @@
 
 #### vim-nox
 
+#### Sublime Text 2
+  * [Setup for Ruby](http://blog.codeclimate.com/blog/2012/06/21/sublime-text-2-for-ruby/)
+
 #### rvm
   * Single user installation ( no sudo )
   * use --autolibs=3 to let rvm install required packages
