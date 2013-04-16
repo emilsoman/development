@@ -31,7 +31,8 @@
   * [.irbrc, .pryrc](https://gist.github.com/fabiokr/4555771)
 
 #### SSH keys
-  * gem install gas
+  * generate keys
+  * add to GitHub
 
 #### Tools
   * the_silver_searcher
