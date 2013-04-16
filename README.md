@@ -42,4 +42,9 @@
   * rake_completion
   * git-aliases
 
+#### Keyboard Shortcuts
+  * activate Guake
+  * activate Chrome
+  * activate Sublime
+
 #### Skype
