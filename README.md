@@ -44,8 +44,8 @@
   * git-aliases
 
 #### Keyboard Shortcuts
-  * activate Guake
-  * activate Chrome
-  * activate Sublime
+  * activate Guake - F12
+  * activate Chrome - F10 : wmctrl -a "Google Chrome" || google-chrome
+  * activate Sublime - F9
 
 #### Skype
