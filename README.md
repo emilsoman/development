@@ -14,6 +14,7 @@
 
 #### Sublime Text 2
   * [Setup for Ruby](http://blog.codeclimate.com/blog/2012/06/21/sublime-text-2-for-ruby/)
+  * [Remove Alt-drag behavior using compizconfig-settings-manager](http://askubuntu.com/questions/67518/how-to-disable-window-move-with-alt-left-mouse-button)
 
 #### rvm
   * Single user installation ( no sudo )
