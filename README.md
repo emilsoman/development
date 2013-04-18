@@ -41,7 +41,7 @@
   * pstree
   * Sublime Text
   * rake_completion
-  * git-aliases
+  * git-aliases : git-uncommit
 
 #### Keyboard Shortcuts
   * activate Guake - F12
