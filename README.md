@@ -51,3 +51,5 @@
   * activate Sublime - F9
 
 #### Skype
+
+#### Google Hangout
