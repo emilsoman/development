@@ -45,6 +45,7 @@
   * Sublime Text
   * rake_completion
   * git-aliases : git-uncommit
+  * openVPN
 
 #### Keyboard Shortcuts
   * activate Guake - F12
