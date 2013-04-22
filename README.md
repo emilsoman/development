@@ -9,6 +9,7 @@
 
 #### Google Chrome
   * Set as default browser
+  * Sync with google account
 
 #### vim-nox
 
