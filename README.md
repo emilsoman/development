@@ -47,6 +47,7 @@
   * rake_completion
   * git-aliases : git-uncommit
   * openVPN
+  * sudo apt-get install grc ( for coloring tails )
 
 #### Keyboard Shortcuts
   * activate Guake - F12
