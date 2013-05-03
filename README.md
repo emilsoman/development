@@ -55,5 +55,6 @@
   * activate Sublime - F9
 
 #### Skype
+  * `sudo apt-get install sni-qt sni-qt:i386` to show tray icon
 
 #### Google Hangout
